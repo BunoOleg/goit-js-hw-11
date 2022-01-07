@@ -14,7 +14,7 @@ button {
   cursor: pointer;
 }
 button:hover {
-  background-color: #4c7ead;
+  background-color: #374933;
 }
 .photo-card {
   display: inline-block;
