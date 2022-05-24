@@ -12,7 +12,7 @@ const refs = {
   loadMoreBtn: document.querySelector('.load-more'),
 };
 
-const API_KEY = '24743165-5cd957bc5a8953f7a8bedce16';
+const API_KEY = '27630557-6366d2fab585386447c9ca515';
 const BASE_URL = 'https://pixabay.com/api/';
 let query = '';
 let page = 1;
